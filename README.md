@@ -158,6 +158,8 @@ ForgeAI is a working system deployed for private use, built as a single-operator
 - Not implemented: business plan generation, billing, and the user-facing "Request Revision" action on reports (shown as disabled).
 - There is no automated test suite.
 
+> **About this repository.** This is a public snapshot of a project I develop privately. It was published with credentials, account identifiers and private data removed, so its history starts at publication.
+
 ---
 
 Built by Efraim Hernandez · https://efraprojects.com
