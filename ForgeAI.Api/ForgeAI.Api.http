@@ -1,0 +1,6 @@
+@ForgeAI.Api_HostAddress = http://localhost:5050
+
+GET {{ForgeAI.Api_HostAddress}}/api/health
+Accept: application/json
+
+###
